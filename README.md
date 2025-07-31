@@ -12,16 +12,16 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 🎥 See my latest work in robotics here ->  
 [Quadruped Gait Control with Reinforcement Learning](https://github.com/kunj13/Quadruped-Gait-Control-with-Reinforcement-Learning) | [AI-Powered Human-Following Robot](https://github.com/kunj13/Human-Following-Robot) | [Crab Detection Robotics System](https://github.com/kunj13/Crab-Detection-and-Cutting-Automation-System)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunj13&label=Profile%20views&color=0e75b6&style=flat" alt="kunj13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunj1302&label=Profile%20views&color=0e75b6&style=flat" alt="kunj1302" /> </p>
 
-<a href="https://www.linkedin.com/in/kunj-golwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/kunj13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kunj-golwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/kunj1302"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
 ## 📊 Kunj's GitHub Stats
-![Kunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj13&show_icons=true&theme=tokyonight)
+![Kunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj1302&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj13&show_icons=true&locale=en&layout=compact" alt="kunj13" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj1302&show_icons=true&locale=en&layout=compact" alt="kunj1302" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -59,7 +59,7 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kunj13" alt="kunj13" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kunj1302" alt="kunj1302" />
   </a>
 </p>
 
