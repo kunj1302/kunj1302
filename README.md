@@ -21,19 +21,11 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 ## 📊 Kunj's GitHub Stats
 ![Kunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj1302&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj1302&show_icons=true&locale=en&layout=compact" alt="kunj1302" /></p>
-
-## 📊 Kunj's GitHub Stats
-![Kunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj1302&show_icons=true&theme=tokyonight)
-
 ## 📈 Kunj's 2025 GitHub Stats
 ![Kunj's 2025 GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj1302&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&custom_title=Kunj's%202025%20GitHub%20Stats)
 
-## 🔥 Contribution Streak (2025)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kunj1302&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj1302&show_icons=true&locale=en&layout=compact" alt="kunj1302" /></p>
 
-## 📊 2025 Activity Overview
-![Kunj's 2025 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunj1302&theme=tokyo-night)
 
 
 <h3 align="left">Languages and Tools:</h3>
