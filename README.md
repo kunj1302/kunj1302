@@ -19,9 +19,6 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 ---
 
 
-## 📈 Kunj's 2025 GitHub Stats
-![Kunj's 2025 GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj1302&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&custom_title=Kunj's%202025%20GitHub%20Stats)
-
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj1302&show_icons=true&locale=en&layout=compact" alt="kunj1302" /></p>
 
