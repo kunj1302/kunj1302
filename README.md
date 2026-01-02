@@ -12,7 +12,7 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 📬 How to reach me ... **kunjgolwala13@gmail.com** | **kgolwala@umd.edu**
 
 🎥 See my latest work in robotics here ->  
-[TMI: OpenVLA Fine-Tuning](https://github.com/kunj13/openvla-tmi) | [Frenet Trajectory Planner](https://github.com/kunj13/frenet-planner) | [VisionNav](https://github.com/kunj13/vision-nav) | [Human-Following Robot](https://github.com/kunj13/Human-Following-Robot)
+[TMI: OpenVLA Fine-Tuning](https://github.com/kunj1302/tmi_openvla) | [Frenet Trajectory Planner](https://github.com/kunj1302/frenet_trajectory_planner_ADAS) | [VisionNav](https://github.com/kunj1302/Autonomous_Navigation_AMR) | [Human-Following Robot](https://github.com/kunj13/Human-Following-Robot)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kunj1302&label=Profile%20views&color=0e75b6&style=flat" alt="kunj1302" />
