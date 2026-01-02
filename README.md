@@ -5,9 +5,16 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 🛠 I’m currently pursuing a Master's in Robotics at the University of Maryland, College Park  
 🤝 I’m looking to collaborate on ... projects in AI, robotics, and embodied intelligence  
 
-🌟 I have worked at ...  
-- **GAMMA Lab (UMD)** — Research Assistant, working on perception, behavior planning, and navigation for curbside autonomous robots using camera + LiDAR, MPPI planners, SLAM, and ROS 2  
-- **Symbotic LLC (Ex-Perception Intern)** — Built and deployed vision transformer–based perception systems for warehouse AMRs, optimized ROS 2 pipelines on Jetson with TensorRT  
+🔬 **Currently working at ...**  
+- **GAMMA Lab (UMD)** — Research Assistant, working on multi-modal perception (camera + LiDAR), behavior planning, and navigation for curbside autonomous robots using MPPI planners, SLAM, and ROS 2  
+
+🌟 **I have worked at ...**  
+- **Symbotic LLC** — Perception Engineer (Ex-Intern), developed and deployed Vision Transformer–based perception systems for warehouse AMRs, optimized ROS 2 pipelines on Jetson using TensorRT, and reduced inference latency by 70%  
+
+- **Bio-Imaging and Machine Vision (BMV) Lab, UMD** — Research Assistant, built ROS + OpenCV vision pipelines for crab and mushroom detection, reducing manual intervention by 75%, and applied imitation learning for UR5e robotic arm manipulation  
+
+- **University of Alberta (MITACS Globalink)** — Reinforcement Learning Research Intern, implemented multi-agent reinforcement learning for high-density autonomous vehicle merging, achieving 30% faster responses and 40% fewer collisions in simulation  
+
 
 📬 How to reach me ... **kunjgolwala13@gmail.com** | **kgolwala@umd.edu**
 
