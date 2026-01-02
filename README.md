@@ -35,8 +35,9 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 ---
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunj1302&layout=compact&hide=jupyter%20notebook" />
-
+ <img align="left"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj1302&show_icons=true&locale=en&layout=compact"
+       alt="kunj1302" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
