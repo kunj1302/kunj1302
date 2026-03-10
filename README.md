@@ -6,10 +6,13 @@ Check out my [Portfolio Website](https://kunj1302.github.io/)
 🤝 I’m looking to collaborate on ... projects in AI, robotics, and embodied intelligence  
 
 🔬 **Currently working at ...**  
-- **GAMMA Lab (UMD)** — Research Assistant, working on multi-modal perception (camera + LiDAR), behavior planning, and navigation for curbside autonomous robots using MPPI planners, SLAM, and ROS 2  
+- **Temple Allen Industries** — Machine Learning Engineer, Working on large scale synthetic data generation for model training using Isaac Sim and Google CLoud SDK (Nano Banana Pro 3), along with deep learning model fine tuning for airplane sanding process.
 
 🌟 **I have worked at ...**  
-- **Symbotic LLC** — Perception Engineer (Ex-Intern), developed and deployed Vision Transformer–based perception systems for warehouse AMRs, optimized ROS 2 pipelines on Jetson using TensorRT, and reduced inference latency by 70%  
+- **GAMMA Lab (UMD)** — Research Assistant, working on multi-modal perception (camera + LiDAR), behavior planning, and navigation for curbside autonomous robots using MPPI planners, SLAM, and ROS 2  
+
+
+- **Symbotic LLC** — Perception Engineer, developed and deployed Vision Transformer–based perception systems for warehouse AMRs, optimized ROS 2 pipelines on Jetson using TensorRT, and reduced inference latency by 70%  
 
 - **Bio-Imaging and Machine Vision (BMV) Lab, UMD** — Research Assistant, built ROS + OpenCV vision pipelines for crab and mushroom detection, reducing manual intervention by 75%, and applied imitation learning for UR5e robotic arm manipulation  
 
